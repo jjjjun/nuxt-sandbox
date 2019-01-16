@@ -1,0 +1,14 @@
+  [
+    {
+      "id": 1,
+      "name": "Colonizer Training Camp",
+      "name_ja": "開拓民訓練キャンプ",
+      "cost": 8
+    },
+    {
+      "id": 2,
+      "name": "Asteroid Mining Consortium",
+      "name_ja": "小惑星採掘組合",
+      "cost": 13
+    }
+  ]
